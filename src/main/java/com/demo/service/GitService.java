@@ -9,4 +9,7 @@ public class GitService {
 		System.out.println("Message 1");
 	}
 	
+	public void msgPrint() {
+		System.out.println("Print msg");
+	}
 }
